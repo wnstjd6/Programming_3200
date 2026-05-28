@@ -39,4 +39,4 @@ npm create vite@latest .
   <Link to="/"></Link>
   ```
 - `useNavigate()`
--3207 육준성
+-3207 육준성 3-1 추가할때 맨 위에 표시하자 
